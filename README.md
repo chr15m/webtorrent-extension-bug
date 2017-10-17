@@ -1,4 +1,4 @@
-Code for reproducing the conditions of webtorrent/webtorrent#1196.
+Code for reproducing the conditions of webtorrent/webtorrent#1207
 
 To replicate the bug:
 
