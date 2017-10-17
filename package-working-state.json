@@ -1,0 +1,6 @@
+{
+  "name": "webtorrent-extension-bug",
+  "dependencies": {
+    "webtorrent": "^0.81.0"
+  }
+}
